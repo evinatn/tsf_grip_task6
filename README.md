@@ -1,4 +1,4 @@
-# tsf_grip_task6
+# The sparks foundation grips internship task 6
 
 #SparksFoundationTask6
 
