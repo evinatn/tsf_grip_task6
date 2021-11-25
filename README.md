@@ -1,6 +1,11 @@
-# The sparks foundation grips internship task 6
+# The Sparks Foundation Grips internship Task 6 
+</a>
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"
+      alt="API stability" />
+      
+##  SparksFoundationTask6 - Website Testing using Selenium
 
-#SparksFoundationTask6
+### Task Activities 
 
 ◇	Read up about Testing.
 
@@ -13,3 +18,7 @@
 ◇	The test script should check of at least 5 pages and 10 elements in total. 
 
 ◇	Each element could be e.g. if the Logo exists, the navigation bar appears, the name on about us page is correct, etc.
+
+### About Selenium
+
+Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms. You can use multiple programming languages like Java, C#, Python etc. to create Selenium Test Scripts. Testing done using the Selenium testing tool is usually referred to as Selenium Testing.
